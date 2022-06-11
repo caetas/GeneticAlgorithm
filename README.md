@@ -5,7 +5,7 @@ Car goes **brrrr**. It's actually a square with no wheels but whatever.
 
 First of all, clone this repository (you can also download it as a .zip file)
 ```bash
-git clone
+git clone https://github.com/tiagoespsanto/GeneticAlgorithm.git
 ```
 
 Please run the following command, to make sure that the required Python libraries are installed:
@@ -27,3 +27,8 @@ The script lets you choose several options to personalize how the algorithm work
 5. **Video Output**: Do you want to crate a cool video like the one in [Videos](#videos)? Just say yes.
 
 ## Videos
+Oval Track:
+https://user-images.githubusercontent.com/60974869/173205674-ee6cdec5-25c3-4146-b060-e85eeeb5d2d6.mp4
+
+Slalom Track:
+https://user-images.githubusercontent.com/60974869/173205942-192be650-b169-4074-ac0c-bd321d59e2bc.mp4
