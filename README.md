@@ -28,7 +28,9 @@ The script lets you choose several options to personalize how the algorithm work
 
 ## Videos
 Oval Track:
+
 https://user-images.githubusercontent.com/60974869/173205674-ee6cdec5-25c3-4146-b060-e85eeeb5d2d6.mp4
 
 Slalom Track:
+
 https://user-images.githubusercontent.com/60974869/173205942-192be650-b169-4074-ac0c-bd321d59e2bc.mp4
